@@ -1,0 +1,15 @@
+h2 {
+  font-size: 36px;
+  font-weight: 800;
+  font-family: 'Segoe UI', 'Georgia', 'Times New Roman', serif;
+  color: #ad1457;
+  text-align: center;
+  background: linear-gradient(90deg, #fce4ec 0%, #f8bbd0 100%);
+  padding: 18px 28px;
+  border: none;
+  border-radius: 16px;
+  letter-spacing: 1.5px;
+  box-shadow: 0 4px 16px rgba(173,20,87,0.10);
+  text-shadow: 0 1px 2px rgba(173,20,87,0.10);
+  margin-bottom: 24px;
+}
